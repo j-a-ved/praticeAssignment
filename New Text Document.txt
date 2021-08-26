@@ -441,18 +441,6 @@ html file:
 
 
 
-Shailendra Thapliyal12:35 PM
-https://www.v2force.com/blogs/publish-subscribe-model-in-lightning-web-component-lwc-part-2-salesforce-blog/
-
-
-pub sub
-Shailendra Thapliyal12:38 PM
-https://www.sfdcpanther.com/pub-sub-in-lightning-web-component/
-https://www.jitendrazaa.com/blog/salesforce/lightning-web-component-event-handling-pub-sub/
-
-
-kavikumar667@gmail.com
-kavi22667
 
 
 
